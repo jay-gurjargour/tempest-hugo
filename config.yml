@@ -41,11 +41,11 @@ params:
   description: Your website description
   math: false
   images:
-  - "/uploads/og.webp"
+  - "/static/uploads/og.webp"
   label:
     title: _Piko Title_
     text: Welcome to Piko
-    icon: /uploads/zap.svg
+    icon: /static/uploads/zap.svg
     iconHeight: "35"
     iconWIdth: "35"
   comments: true
@@ -62,11 +62,11 @@ params:
   contactFormAction: # Get link from https://formsubmit.io or https://fabform.io
   assets:
     disableFingerprinting: false
-    favicon: /uploads/zap.svg
-    favicon16x16: /uploads/zap.svg
-    favicon32x32: /uploads/zap.svg
-    apple_touch_icon: /uploads/zap.svg
-    safari_pinned_tab: /uploads/zap.svg
+    favicon: /static/uploads/zap.svg
+    favicon16x16: /static/uploads/zap.svg
+    favicon32x32: /static/uploads/zap.svg
+    apple_touch_icon: /static/static//zap.svg
+    safari_pinned_tab: /static/uploads/zap.svg
   ShowReadingTime: true
   ShowBreadCrumbs: true
   homepage:

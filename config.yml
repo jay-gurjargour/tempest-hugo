@@ -79,7 +79,7 @@ params:
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
     heroCTASecondaryUrl: "/contact/"
-    heroBackgroundImage: "/uploads/portfolio-1.webp"
+    heroBackgroundImage: "/static/uploads/portfolio-1.webp"
     # Blog Section
     disableBlogSection: false
     blogTitle: Latest Posts
@@ -89,22 +89,22 @@ params:
     disableAboutSection: false
     aboutTitle: About
     aboutDescription: Just something about me
-    aboutImgUrl: "/uploads/self.webp"
+    aboutImgUrl: "/static/uploads/self.webp"
     aboutContent: Hi guys. This is where you put something about yourself.
     # Portfolio Section
     disablePortfolioSection: false
     portfolioTitle: Portfolio
     portfolioDescription: Some of my works
     portfolio:
-    - imageUrl: /uploads/portfolio-1.webp
+    - imageUrl: /static/uploads/portfolio-1.webp
       alt: # image alt for better SEO
       description: Portfolio One.
       websiteUrl: #
-    - imageUrl: /uploads/portfolio-2.webp
+    - imageUrl: /static/uploads/portfolio-2.webp
       alt: # image alt for better SEO
       description: Portfolio Two.
       websiteUrl: #
-    - imageUrl: /uploads/portfolio-3.webp
+    - imageUrl: /static/uploads/portfolio-3.webp
       alt: # image alt for better SEO
       description: Portfolio Three.
       websiteUrl: #

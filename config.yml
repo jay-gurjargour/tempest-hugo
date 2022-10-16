@@ -5,7 +5,7 @@ languageCode: en-us
 title: Tempest
 theme: piko
 paginate: "9"
-copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
+copyright:
 googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
 enableRobotsTXT: true
 buildDrafts: false
@@ -44,7 +44,7 @@ params:
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title_
+    title: _Tempest Cloud_
     text: Welcome to Tempest, The future of gaming
     icon: /uploads/zap.svg
     iconHeight: "35"
@@ -74,13 +74,13 @@ params:
     # Hero Section
     disableHeroSection: false
     heroUpperTitle: 
-    heroTitle: Piko
-    heroDescription: Lightweight theme for your every need
+    heroTitle: Tempest Cloud Gaming
+    heroDescription: Make your old PC a gaming battlestation or a production machine with just one click
     heroCTAPrimaryText: Blog
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
     heroCTASecondaryUrl: "/contact/"
-    heroBackgroundImage: "/uploads/portfolio-1.webp"
+    heroBackgroundImage: /uploads/portfolio-1.webp
     # Blog Section
     disableBlogSection: false
     blogTitle: Latest Posts
@@ -90,8 +90,8 @@ params:
     disableAboutSection: false
     aboutTitle: About
     aboutDescription: Just something about me
-    aboutImgUrl: "/uploads/self.webp"
-    aboutContent: Hi guys. This is where you put something about yourself.
+    aboutImgUrl: /uploads/self.webp
+    aboutContent: The Future of gaming starts with you and us.
     # Portfolio Section
     disablePortfolioSection: false
     portfolioTitle: Portfolio

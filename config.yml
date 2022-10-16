@@ -2,7 +2,7 @@
 canonifyURLs: true
 baseURL: https://piko-heksagon.netlify.app/
 languageCode: en-us
-title: Piko
+title: Tempest
 theme: piko
 paginate: "9"
 copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
@@ -39,13 +39,13 @@ params:
       SiteVerificationTag: # Bing Site Verification
   env: production
   author: Your Name
-  description: Your website description
+  description: The Future of Gaming
   math: false
   images:
   - "/uploads/og.webp"
   label:
     title: _Piko Title_
-    text: Welcome to Piko
+    text: Welcome to Tempest, The future of gaming
     icon: /uploads/zap.svg
     iconHeight: "35"
     iconWIdth: "35"

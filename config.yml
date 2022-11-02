@@ -1,6 +1,6 @@
 ---
 canonifyURLs: true
-baseURL: https://piko-heksagon.netlify.app/
+baseURL: http://www.tempestcloud.in/
 languageCode: en-us
 title: Tempest
 theme: piko

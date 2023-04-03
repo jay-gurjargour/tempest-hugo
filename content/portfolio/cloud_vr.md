@@ -2,8 +2,8 @@
 author: "Jay Gurjargour"
 title: "Remote Cloud VR"
 date: "2023-04-01"
-description: "Remote Cloud VR:What It Is and How It Works"
-tags: ["cloud gaming", "tempest", "remote play", "maetaverse", "gaming"]
+description: "Remote Cloud VR : What It Is and How It Works"
+tags: ["cloud gaming", "tempest", "virtual reality", "maetaverse", "gaming"]
 categories: ["themes", "syntax"]
 ShowToc: true
 TocOpen: true

@@ -14,6 +14,7 @@ Cloud gaming is a technology that enables users to stream and play video games o
 ---
 
 
+
 ## Introduction
 Cloud gaming is an emerging technology that allows users to stream video games from remote servers to their devices, rather than downloading and playing them locally. This technology has gained popularity in recent years due to its ability to offer high-quality gaming experiences on devices that may not have the processing power to run the games natively. In this markdown file, we will explain what cloud gaming is, how it works, and its benefits and drawbacks.
 

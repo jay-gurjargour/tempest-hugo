@@ -3,7 +3,7 @@ author: "Jay Gurjargour"
 title: "Say Goodbye to Hardware Costs: The Benefits of Virtual Desktops"
 date: "2023-04-01"
 description: "Virtual Desktops: An Introduction"
-tags: ["cloud gaming", "tempest", "virtual reality", "maetaverse", "gaming"]
+tags: ["Virtual Desktop Infrastructure", "tempest", "CAD", "GPU", "Professional"]
 categories: ["themes", "syntax"]
 ShowToc: true
 TocOpen: true

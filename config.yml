@@ -60,7 +60,7 @@ params:
   CookieLink: /legal/privacy/#cookies-and-web-beacons
   CookieButton: Cookies Policy
   disableAnchoredHeadings: false
-  contactFormAction: # Get link from https://formsubmit.io or https://fabform.io
+  contactFormAction: https://fabform.io/f/QSJ5knm # Get link from https://formsubmit.io or https://fabform.io
   assets:
     disableFingerprinting: false
     favicon: /uploads/zap.svg
@@ -108,7 +108,7 @@ params:
     - imageUrl: /uploads/portfolio-3.webp
       alt: # image alt for better SEO
       description: Portfolio Three.
-      websiteUrl: #
+      websiteUrl:  portfolio/virtual_desktop
   # Search Options (https://fusejs.io/)
   fuseOpts:
     isCaseSensitive: false
